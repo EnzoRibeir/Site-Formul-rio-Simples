@@ -1,2 +1,8 @@
-# Site-Formul-rio-Simples
-Esse projeto é um site de formulário parecido com Google forms (apenas front-end). Foi o segundo projeto que fiz durante o curso Formação Front-end (Hora de Codar) - HTML, CSS, JavaScript, React e + 
+# Site Formulário simples
+Este é um Formulário simples inspirado no Google Forms
+### Acesse o projeto
+[Clique aqui para ver o projeto online!]()
+
+### Tecnologias utilizadas
+- **HTML**
+- **CSS**
